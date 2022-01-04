@@ -9,9 +9,9 @@
     },
     
     "max" : {
-      "max_banner_id" : "e4296ff62680fa8d",
-      "max_interstitial_id" : "0f77c8bfdbc77cc8",
-      "max_native_id" : "e7219e04cac9acae",
+      "max_banner_id" : "d76a848be711256e",
+      "max_interstitial_id" : "c4b283e764b63b3b",
+      "max_native_id" : "843287fa3df241d9",
       "max_rewarded_id" : "2d95aa041013bef0"
     },
 	
@@ -19,7 +19,7 @@
       "mopub_banner_id" : "8e76985203574718a04df47ac64d4664",
       "mopub_interstitial_id" : "ec03a20543a7405aab26de6b83a88568",
       "mopub_native_id" : "340187fb4f684d659b292b55256cfc6e",
-      "mopub_rewarded_id" : "7a7c0f781446438584cf112e5b752d66"
+      "mopub_rewarded_id" : "f5d45dd2e6e75a73"
     },
     
     "mode_ads_banner" : "max",
