@@ -1,0 +1,130 @@
+{
+  "config" : {
+    "admob" : {
+      "admob_unit_id" : "",
+      "admob_banner_id" : "",
+      "admob_interstitial_id" : "",
+      "admob_native_id" : "",
+      "admob_rewarded_id" : ""
+    },
+    
+    "max" : {
+      "max_banner_id" : "e4296ff62680fa8d",
+      "max_interstitial_id" : "0f77c8bfdbc77cc8",
+      "max_native_id" : "e7219e04cac9acae",
+      "max_rewarded_id" : "2d95aa041013bef0"
+    },
+	
+	"mopub" : {
+      "mopub_banner_id" : "8e76985203574718a04df47ac64d4664",
+      "mopub_interstitial_id" : "ec03a20543a7405aab26de6b83a88568",
+      "mopub_native_id" : "340187fb4f684d659b292b55256cfc6e",
+      "mopub_rewarded_id" : "7a7c0f781446438584cf112e5b752d66"
+    },
+    
+    "mode_ads_banner" : "max",
+    "mode_ads_interstitial" : "max",
+    "mode_ads_native" : "max",
+    "mode_ads_rewarded" : "max",
+    "one_signal_app_id" : "",
+
+    "update" : {
+      "enable_update_closed" : true,
+      "update_action" : "https://play.google.com/store/apps/details?id=",
+      "update_msg" : "Update To Now Version",
+      "update_state" : false,
+      "update_action_text" : "Update",
+      "update_title" : "Update Now!"
+    },
+	
+	"cpa_activity" : {
+	   "cpabuild" : {
+        "cpabuild_offer_state" : true,
+        "cpabuild_offer_user_id" : "",
+        "cpabuild_offer_api_key" : "",
+        "cpabuild_offer_type" : "all"
+
+      },
+      "ogads" : {
+        "ogads_offer_state" : false,
+        "ogads_offer_user_id" : "",
+        "ogads_offer_type" : "all"
+
+      },
+      "local_offer" : {
+        "local_offer_state" : true
+      }
+	},
+	
+	"best_offers_activity" : {
+	    "ogads_app_install_state" : false,
+	    "local_offer_state" : true
+	}
+  },
+  "apps" : [
+    {
+      "id":"",
+      "appName":"",
+      "appIcon":"",
+      "appUrl":"",
+      "appState":true,
+      "payout":"",
+      "appCountry":""
+      },
+      {
+      "id":"",
+      "appName":"",
+      "appIcon":"",
+      "appUrl":"",
+      "appState":true,
+      "payout":"",
+      "appCountry":""
+    },
+    {
+      "id":"",
+      "appName":"",
+      "appIcon":"",
+      "appUrl":"",
+      "appState":true,
+      "payout":"",
+      "appCountry":""
+    }
+  ],
+  "tips" : [
+      {
+      "id" : 0,
+      "imageURL" : "https://studioproduction.site/soufiane/friw/Untitled-3.jpg",
+      "state" : "vip",
+      "title" : "Tips1:",
+      "written" : "You must stay alive in this horror/puzzle adventure. Try to survive the vengeful toys waiting for you in the abandoned toy factory. Use your GrabPack to hack electrical circuits or nab anything from afar. Explore the mysterious facility... and don't get caught."
+    },
+    {
+      "id" : 1,
+      "imageURL" : "https://studioproduction.site/soufiane/friw/Untitled-3.jpg",
+      "state" : "vip",
+      "title" : "Tips2:",
+      "written" : "How do you get the red hand in poppy playtime?  You simply have to collect them and use all four on the plate at the top of the railing. In doing so, the machine will break the cube with the red hand."
+    },
+    {
+      "id" : 2,
+      "imageURL" : "https://studioproduction.site/soufiane/friw/Untitled-3.jpg",
+      "state" : "vip",
+      "title" : "Tips3:",
+      "written" : "Unlocking the Security Door Puzzle : Once you’ve watched the video turn to the right and enter the Gift Shop. Inside the Gift Shop look at the ceiling for a train running on a suspended track. Make a note of the colors you see on the train. Leave the Gift Shop and head back through the reception area into Security. Here you will find a locked door with a colored keypad. Push the colors that were on the train to open the door."
+    },
+    {
+      "id" : 3,
+      "imageURL" : "https://studioproduction.site/soufiane/friw/Untitled-3.jpg",
+      "state" : "vip",
+      "title" : "Tips4:",
+      "written" : "In Bad Guys at School you can play as students and revolt against school system by completing missions, or decide to become a teacher that must maintain order despite the violence and brutality in the school."
+    },
+    {
+      "id" : 4,
+      "imageURL" : "https://studioproduction.site/soufiane/friw/Untitled-3.jpg",
+      "state" : "vip",
+      "title" : "Tips5:",
+      "written" : "Blue Tape Location and Getting Blue Hand : Walk into the Security Office and head over to the desk. Grab the Blue Tape by interacting with it and put it in the nearby Blue VCR. Watch the video on the tape. The tape introduces you to using the hands we will get. These hands are very important as they are used to solve most of the puzzles encountered during Chapter 1."
+    }
+  ]
+}
